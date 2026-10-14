@@ -1,0 +1,17 @@
+# Godot
+.import/
+export.cfg
+export_credentials
+*.translation
+.godot/
+*.uid
+
+# Binarios
+*.exe
+*.x86_64
+*.arm64
+*.dmg
+
+# OS
+.DS_Store
+Thumbs.db
